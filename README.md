@@ -10,4 +10,3 @@ SQuAD 2.0 is a benchmarking dataset for machine reading comprehension and questi
 
 ## Models
 The finetuned models are available here - 
-![image](https://github.com/mukunds97/MSCI641_Project/assets/123423168/d7ffe9af-1058-4254-925c-4a5a52e40536)
